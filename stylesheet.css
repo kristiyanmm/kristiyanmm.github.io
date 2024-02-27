@@ -813,6 +813,27 @@ section4{
         0 0 25px cyan, 0 0 50px cyan,
         0 0 100px cyan, 0 0 200px cyan;
 }
+.img{
+    display: flexbox;
+    width: 25px;
+    height: 25px;
+}
+.text-projects{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color:aliceblue;
+    display: inline-block;
+}
+
+.project-title h4{
+    margin: 15px 0;
+    color: rgb(228,228,228);
+    font-size: 25px;
+    font-weight: 600;
+    display: center;
+}
+
 
 
 
